@@ -1,3 +1,5 @@
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddinizmc&&theme=algolia&?count_private=true&show_icons=true)](https://github.com/daviddinizmc/github-readme-stats)
+
 - 👋 Hi, I’m David Camargos.
 - 👀 I’m interested in general technology, but have a focus on T-SQL, SQL, DAX, M, Python, R, Data Visualization, Data Storytelling.
 - 🌱 I am currently learning data visualization, storytelling with data, developing analysis in Power BI using DAX language and M. 
@@ -9,3 +11,4 @@ I am improving my knowledge in SQL, T-SQL, SSIS and Python.
 daviddinizmc/daviddinizmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
