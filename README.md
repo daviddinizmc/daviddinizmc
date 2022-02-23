@@ -5,12 +5,15 @@
 daviddinizmc/daviddinizmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddinizmc&&theme=algolia&?count_private=true&show_icons=true)](https://github.com/daviddinizmc/github-readme-stats)
 
+<!---
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=daviddinizmc&&theme=algolia&?count_private=true&show_icons=true">
 
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddinizmc&layout=compact">
 </div>
+--->
 
 ## Contato
 
